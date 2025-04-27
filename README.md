@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Full Stack Developer with experience in building **end-to-end encrypted chat services**. Currently dedicated in **improving my DSA skills** to become a better problem solver and deliver more efficient, scalable solutions.
+Passionate Full Stack Developer. Currently dedicated in **improving my DSA skills** to become a better problem solver and deliver more efficient, scalable solutions.
 
 # Skills
 **Frontend** - Html, Css, React Js, Javascript, Typescript, Nextjs14, Tailwind.
